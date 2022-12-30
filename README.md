@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ringosan1974
 - 👀 I’m interested in developing embedded software, developing application, natural language processing and AI.
-- 🌱 I’m currently learning Python and C. I want to learn assembly in the future.
+- 🌱 I’m currently learning Python and C. I want to learn assembly.
 - 📫 You can reach me my Twitter written in my profile.
 
 <!---
