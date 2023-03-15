@@ -1,4 +1,4 @@
-## 🍎 Good morning.YOLO. 🍎
+## 🍎 Good morning. 🍎
 
 ![GitHub Stats Card](https://github-readme-stats.vercel.app/api?username=ringosan1974&theme=onedark) ![Top Languages Card (Compact layout)](https://github-readme-stats.vercel.app/api/top-langs/?username=ringosan1974&layout=compact&theme=onedark)
 
