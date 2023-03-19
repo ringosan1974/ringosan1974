@@ -4,4 +4,4 @@
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=ringosan1974&theme=onedark&column=7)](https://github.com/ryo-ma/github-profile-trophy)
 
-![github-contribution-grid-snake](https://raw.githubusercontent.com/ringosan1974/ringosan1974/main/img/snake.svg)
+![github-contribution-grid-snake](https://raw.githubusercontent.com/ringosan1974/ringosan1974/master/img/snake.svg)
