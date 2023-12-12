@@ -1,4 +1,4 @@
-## 🍎 Good morning. 🍎
+## 🍎 Hi there. 🍎
 
 ![ringosan1974's GitHub stats](https://github-readme-stats.vercel.app/api?username=ringosan1974&count_private=true) ![Top Languages Card (Compact layout)](https://github-readme-stats.vercel.app/api/top-langs/?username=ringosan1974&layout=compact)
 
